@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "Rina",
+        "lastname": "Hasan",
+        "email": "rina@hasan.com",
+        "address": "Chittagong"
+    },
+    {
+        "firstname": "Jui",
+        "lastname": "Hasan",
+        "email": "jui@hasan.com",
+        "address": "Chittagong"
+    },
+    {
+        "firstname": "Tina",
+        "lastname": "Hasan",
+        "email": "tina@hasan.com",
+        "address": "Chittagong"
+    }
+]
